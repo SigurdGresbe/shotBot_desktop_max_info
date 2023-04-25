@@ -1,6 +1,6 @@
 # shotBot_desktop_max_info
 [Documentation](https://www.shopbottools.com/support/documentation/desktopmax)
-
+[Software Download](https://www.shopbottools.com/support/control-software)
 ## Important notes
 1. If you are using older Windows versions than 10. Do not use USB 3.0. This won't be compatible with the controller.
 
