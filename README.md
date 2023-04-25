@@ -1,14 +1,16 @@
 # shotBot_desktop_max_info
-[Documentation](https://www.shopbottools.com/support/documentation/desktopmax)
+[Documentation](https://www.shopbottools.com/support/documentation/desktopmax), 
 [Software Download](https://www.shopbottools.com/support/control-software)
 ## Important notes
 1. If you are using older Windows versions than 10. Do not use USB 3.0. This won't be compatible with the controller.
 
 ## Starting up
+### Download ShopBot3
+You can find a software version in the link above(Software Download)
+You will need to change win-settings for Acc control and power settings to make it never fall asleep and allow the installation
+To instal the software you need to open the it as admin 
 ### After you download the shopbot software
 * Use the Quick Start Guide from the documentation link above
-  1. Here you will need to change win-settings for Acc control and power settings
-  
 
 ## Steps in debugging of our CNC
 1. Use a shorter USB.
