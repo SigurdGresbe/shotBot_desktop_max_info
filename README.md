@@ -17,4 +17,21 @@
 
 3. Run with changes that have been made.
 
-  1. What happened 
+What happened 
+ - Used Desktop Max Setup file from documentation link above
+      Nothing interesting happened
+ - Ran the MAX Squaring file from documentation link above
+      Message appered, "Error reaching X prox switch!"
+      
+ ### Running the CNC
+ ## Start
+ 1. Plug CNC to power
+ 2. Flip emergency stop switch upwards(has red cover)
+ 3. Connect to laptop
+ 4. Run ShopBot3 software(SB3) on laptop
+ 5. Turn on spindle on "remote"
+ 
+ Note! If the machine won't turn on please try steps below:
+ - Check if the outlet has power
+ - Check if the emergency off button on the remote is pressed
+ 
